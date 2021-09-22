@@ -27,16 +27,17 @@ int main()
     std::cout << "Task 3 - ANKETA\n";
     std::cout << "\n";
     setlocale(LC_CTYPE, "rus");
-    std::cout << " Фамилия : Гейтс\n";
-    std::cout << " Имя : Билл\n";
-    std::cout << " Отчество : Иванович\n";
-    std::cout << " Пол : мужской\n";
-    std::cout << " Дата рождения : 1.01.1900\n";
-    std::cout << " Адрес : One Microsoft Way, 1, NY, USA\n";
-    std::cout << " Номер телефон : 1-2-3-4-5\n";
-    std::cout << " Место учебы : - \n";
-    std::cout << " Класс : - \n";
-    std::cout << " Хобби : программирование\n";
+    std::cout << " \t Фамилия       : Гейтс\n";
+    std::cout << " \t Имя           : Билл\n";
+    std::cout << " \t Отчество      : Иванович\n";
+    std::cout << " \t Пол           : мужской\n";
+    std::cout << " \t Дата рождения : 1.01.1900\n";
+    std::cout << " \t Адрес         : One Microsoft Way, 1, NY, USA\n";
+    std::cout << " \t Номер телефон : 1-2-3-4-5\n";
+    std::cout << " \t Место учебы   : - \n";
+    std::cout << " \t Класс         : - \n";
+    std::cout << " \t Хобби         : программирование\n";
+     
 }
 
 
